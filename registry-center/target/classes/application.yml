@@ -1,0 +1,10 @@
+server:
+  port: 8849
+spring:
+  application:
+    name: registry-center
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        register-enabled: false
