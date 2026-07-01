@@ -9,4 +9,4 @@ Content-Type: application/json
 
 ### 验证Token
 GET http://localhost:8081/api/auth/verify
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc4MjcyMjE5MCwiZXhwIjoxNzgyODA4NTkwfQ.gRI-sgLdZ89EqIKhJkFNpxcq95_XaHUPcejrLfeiIk0
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc4MjkwNDM5MSwiZXhwIjoxNzgyOTkwNzkxfQ.Q9_a75MReyKsfVVIJLwuDTm4X5xkHt7gg8uT1oiNMSE
